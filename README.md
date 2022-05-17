@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/sittshein"><img src="https://api.daily.dev/devcards/1f1be7f6055945a19afb069ff95c4271.png?r=23g" width="400" alt="Sitt Shein's Dev Card"/></a>
