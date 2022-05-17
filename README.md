@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/sittshein"><img src="https://api.daily.dev/devcards/1f1be7f6055945a19afb069ff95c4271.png?r=23g" width="400" alt="Sitt Shein's Dev Card"/></a>
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sittshein/sittshein/blob/main/devcard.svg" width="400" alt="Sitt Shein's Dev Card"/></a>
+<a href="https://app.daily.dev/sittshein"><img src="https://github.com/sittshein/sittshein/blob/main/devcard.svg" width="400" alt="Sitt Shein's Dev Card"/></a>
